@@ -1,0 +1,1 @@
+Aquí se encuentra todo basados en la Semana 4 sobre Pruebas, Documetnación y Entrega realizada en el proyeccto Sistema de Gestión Escolar incluidos pantallazos de códigos realizados, el link del vídeo grabado, etc
